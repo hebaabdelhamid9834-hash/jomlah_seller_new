@@ -37,7 +37,7 @@ android {
         applicationId = "com.jomlah.seller.app"
         minSdk = flutter.minSdkVersion
         targetSdk = 35
-        versionCode = 5
+        versionCode = 6
         versionName = flutterVersionName
         
         resValue("string", "app_name", "Jomlah Seller")
