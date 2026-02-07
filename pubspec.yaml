@@ -44,7 +44,7 @@ dependencies:
   google_fonts: ^6.2.1
   provider: ^6.0.0
   one_context: ^4.0.0
-  intl_phone_number_input: ^0.7.0+2
+  intl_phone_number_input:
   toast: ^0.3.0
   #package_info: ^2.0.2
   shimmer: ^3.0.0
